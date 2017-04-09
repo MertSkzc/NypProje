@@ -1,0 +1,24 @@
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\bin\Debug\NypProje.exe.config
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\bin\Debug\NypProje.exe
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\bin\Debug\NypProje.pdb
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.csprojResolveAssemblyReference.cache
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.frmYonetici.resources
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.frmHesapDefteri.resources
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.frmSatis.resources
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.Giris.resources
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.Properties.Resources.resources
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.csproj.GenerateResource.Cache
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.exe
+C:\Users\mert\documents\visual studio 2015\Projects\NypProje\NypProje\obj\Debug\NypProje.pdb
+C:\Users\mert\Desktop\NypProje\NypProje\bin\Debug\NypProje.exe.config
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.exe
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.pdb
+C:\Users\mert\Desktop\NypProje\NypProje\bin\Debug\NypProje.exe
+C:\Users\mert\Desktop\NypProje\NypProje\bin\Debug\NypProje.pdb
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.frmYonetici.resources
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.frmHesapDefteri.resources
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.frmSatis.resources
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.Giris.resources
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.Properties.Resources.resources
+C:\Users\mert\Desktop\NypProje\NypProje\obj\Debug\NypProje.csproj.GenerateResource.Cache
